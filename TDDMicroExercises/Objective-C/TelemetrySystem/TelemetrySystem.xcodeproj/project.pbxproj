@@ -112,12 +112,8 @@
 		EECE8E1F18B7A56F00DF61A8 /* TelemetrySystem */ = {
 			isa = PBXGroup;
 			children = (
-				EECE8E2818B7A56F00DF61A8 /* AppDelegate.h */,
-				EECE8E2918B7A56F00DF61A8 /* AppDelegate.m */,
-				EECE8E2B18B7A56F00DF61A8 /* Main.storyboard */,
-				EECE8E2E18B7A56F00DF61A8 /* ViewController.h */,
-				EECE8E2F18B7A56F00DF61A8 /* ViewController.m */,
-				EECE8E3118B7A56F00DF61A8 /* Images.xcassets */,
+				EECE8E4F18B7A66700DF61A8 /* Foundation */,
+				EECE8E4E18B7A65C00DF61A8 /* Lib */,
 				EECE8E2018B7A56F00DF61A8 /* Supporting Files */,
 			);
 			path = TelemetrySystem;
@@ -150,6 +146,26 @@
 				EECE8E4118B7A56F00DF61A8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EECE8E4E18B7A65C00DF61A8 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Lib;
+			sourceTree = "<group>";
+		};
+		EECE8E4F18B7A66700DF61A8 /* Foundation */ = {
+			isa = PBXGroup;
+			children = (
+				EECE8E2818B7A56F00DF61A8 /* AppDelegate.h */,
+				EECE8E2918B7A56F00DF61A8 /* AppDelegate.m */,
+				EECE8E2B18B7A56F00DF61A8 /* Main.storyboard */,
+				EECE8E2E18B7A56F00DF61A8 /* ViewController.h */,
+				EECE8E2F18B7A56F00DF61A8 /* ViewController.m */,
+				EECE8E3118B7A56F00DF61A8 /* Images.xcassets */,
+			);
+			name = Foundation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -460,6 +476,7 @@
 				EECE8E4A18B7A56F00DF61A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EECE8E4B18B7A56F00DF61A8 /* Build configuration list for PBXNativeTarget "TelemetrySystemTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +485,7 @@
 				EECE8E4D18B7A56F00DF61A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

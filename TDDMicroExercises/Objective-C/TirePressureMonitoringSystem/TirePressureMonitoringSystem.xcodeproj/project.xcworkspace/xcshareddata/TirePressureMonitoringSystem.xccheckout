@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E6270EF-3A39-4952-B702-33ED8C9255FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TirePressureMonitoringSystem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52F21320-2D40-480C-920A-14BC097DA26A</key>
+		<string>ssh://github.com/gscalzo/TDDwithMockObjectsAndDesignPrinciples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TDDMicroExercises/Objective-C/TirePressureMonitoringSystem/TirePressureMonitoringSystem.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52F21320-2D40-480C-920A-14BC097DA26A</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/gscalzo/TDDwithMockObjectsAndDesignPrinciples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52F21320-2D40-480C-920A-14BC097DA26A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52F21320-2D40-480C-920A-14BC097DA26A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TDDwithMockObjectsAndDesignPrinciples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
